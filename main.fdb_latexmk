@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1751801404.2999 "d:/hty05/Documents/GitHub/cv/main.tex" "main.pdf" "main" 1751801405.04656 0
+["pdflatex"] 1753553952.01013 "d:/hty05/Documents/GitHub/cv/main.tex" "main.pdf" "main" 1753553952.99729 0
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1751089793 32080 340ef9bf63678554ee606688e7b5339d ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb" 1751089793 32378 2b20eba6bb36c716382b6d96240eaa69 ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1751089793 32166 b0c356b15f19587482a9217ce1d8fa67 ""
@@ -11,7 +11,6 @@
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb" 1751089793 36607 d654cb3f2bc54f57509240071db3bffa ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb" 1751089793 35660 fb24af7afbadb71801619f1415838111 ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb" 1751089793 24287 6b803fa9eb1ddff9112e00519b09dd9e ""
-  "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb" 1751090593 164252 80f1e2aedb14b70a9faa6f99c56d1770 ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti0800.pfb" 1751090594 187625 dd608ec2036f04ca9db473ad88d8ac35 ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1751093217 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty" 1751092342 7984 7dbb9280f03c0a315425f1b4f35d43ee ""
@@ -34,10 +33,10 @@
   "d:/Application/Nigger/texlive/2025/texmf-dist/tex/latex/parskip/parskip.sty" 1751093512 4288 94714aa7f535440f33181fec52a31963 ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/tex/latex/tools/array.sty" 1751094898 15698 f5f20b24886bb50156054c53e19b13fd ""
   "d:/Application/Nigger/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty" 1751095283 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "d:/hty05/Documents/GitHub/cv/main.tex" 1751801403 12126 ef5b236aa5c9b475a6afaf5fe5492eb7 ""
-  "main.aux" 1751801404 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "main.tex" 1751801403 12126 ef5b236aa5c9b475a6afaf5fe5492eb7 ""
-  "resume.cls" 1751799922 6261 e5f692e8153fb652d93c554cbafba379 ""
+  "d:/hty05/Documents/GitHub/cv/main.tex" 1753553951 13401 3a3e6bef5e8ce7a56eab78c789e7d767 ""
+  "main.aux" 1753553952 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "main.tex" 1753553951 13401 3a3e6bef5e8ce7a56eab78c789e7d767 ""
+  "resume.cls" 1753102468 6223 c2d200dd2c62fe43f6380eb254e535b5 ""
   (generated)
   "main.aux"
   "main.log"

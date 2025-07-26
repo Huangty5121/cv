@@ -133,8 +133,7 @@
   \begin{list}{$\cdot$}{\leftmargin=1.0em} % \cdot used for bullets, no indentation
    \itemsep -0.5em \vspace{-0.5em} % Compress items in list together for aesthetics
   }{
-  \end{list}
-  \vspace{0.5em} % Some space after the list of bullet points
+  \end{list}% Some space after the list of bullet points
 }
 
 \newenvironment{rProjectSubsection}[4]{ % 4 input arguments - company name, year(s) employed, job title and location
@@ -158,13 +157,12 @@
   \\
   {\em #3} \hfill {\em #4} % Italic job title and location
   }\smallskip
-  }{
-  \vspace{0.5em} % Some space after the list of bullet points
-}
+  }% Some space after the list of bullet points
+
 
 % The below commands define the whitespace after certain things in the document - they can be \smallskip, \medskip or \bigskip
 \def\namesize{\huge} % Size of the name at the top of the document
 \def\addressskip{\smallskip} % The space between the two address (or phone/email) lines
 \def\sectionlineskip{\medskip} % The space above the horizontal line for each section 
-\def\nameskip{\bigskip} % The space after your name at the top
+\def\nameskip{\medskip} % The space after your name at the top
 \def\sectionskip{\medskip} % The space after the heading section
